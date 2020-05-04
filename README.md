@@ -5,4 +5,4 @@ This is Discord bot for Minecraft Server.
 This bot can start minecraft server at text channel in discord.
 
 # Programing Lnaguage
-Writen by *Python*.
+Writen by **Python**.
